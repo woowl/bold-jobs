@@ -43,6 +43,3 @@ None of the following are required for this position:
 * A certain level of activity on a Dribbble account.
 * A certain number of followers on Twitter.
 
-**To Apply:**
-
-Please contact [sarah@boldlisting.com](mailto:sarah@boldlisting.com)
