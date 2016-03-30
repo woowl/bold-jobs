@@ -4,7 +4,7 @@ We’re [**Bold**](http://boldlisting.com/), and we’re looking for our first p
 
 ## **We Are**
 
-* **Small.** We’re a well funded early stage (<4 employees) startup tackling a giant ($50B+) market- residential real estate. 
+* **Small.** We’re a well funded early stage startup tackling a giant ($50B+) market- residential real estate. 
 * **Ambitious.** The residential real estate purchase process is broken. It’s confusing, frustrating, opaque, complicated – and it’s the largest financial transaction in most people’s lives. We’re injecting it with transparency, technology and long-waited satisfaction, for all parties involved (buyers, sellers and agents). In addition, we are establishing a business model which will capture a lot of that value.
 * **Thoughtful.** Our core values are transparency and rationality: we’re moving fast, but we’re investing our time wisely; we’re making big bets, but taking deliberate steps. 
 * **Grounded.** We’re building a business, which means making sure we deliver value for our customers fast. Monetization is not an afterthought, and we don’t depend on network effects for our product to work.
