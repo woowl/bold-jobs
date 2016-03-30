@@ -50,6 +50,3 @@ None of the following are required for this position:
 - Sharing the same hobbies or beliefs as the other members of the team
 
 
-**To Apply:**
-
-Please contact [sarah@boldlisting.com](mailto:sarah@boldlisting.com)
