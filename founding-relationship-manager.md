@@ -1,5 +1,7 @@
 # Strategic Development Manager
 
+We’re [**Bold**](http://boldlisting.com/) and we're hiring a strategic development manager
+
 ## We Are
 
 - **Small.** We’re a well funded early stage (<4 employees) startup tackling a giant ($50B+) market. We’re supported by the smooth machinery of a Tier 1 startup studio/incubator, which complements our operational needs.
@@ -46,3 +48,8 @@ None of the following are required for this position:
 - Having worked with anyone on the team before
 - A particular age
 - Sharing the same hobbies or beliefs as the other members of the team
+
+
+**To Apply:**
+
+Please contact [sarah@boldlisting.com](mailto:sarah@boldlisting.com)
