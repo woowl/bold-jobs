@@ -56,6 +56,4 @@ None of the following are required for this position:
 * **Thoughtful.** Our core values are transparency and rationality: we’re moving fast, but we’re investing our time wisely; we’re making big bets, but taking deliberate steps. 
 * **Grounded.** We’re building a business, which means making sure we deliver value for our customers fast. Monetization is not an afterthought, and we don’t depend on network effects for our product to work.
 
-**To Apply:**
 
-Please contact [sarah@boldlisting.com](mailto:sarah@boldlisting.com)
