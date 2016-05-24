@@ -12,6 +12,7 @@ We’re [**Bold**](http://boldlisting.com/), and we’re looking for a great mar
 ### **Job Summary**
 We are currently in private beta for a new software platform.  The team has a strong appreciation for the value of marketing expertise and we’re looking an in-house expert to work alongside sales, support, user research, product, design and engineering.  This role is for an experienced marketer who has previously managed marketing campaigns and is excited to create and build a marketing program from the ground up.   
 
+
 The role will evolve as we gain product-market fit, but will involve testing messaging and the strength of various channels.  It will then build on those tests to create a marketing program that generates customer leads.  Much of the job will include managing digital channels, but as we’re a start-up and you’ll be the first full-time marketer on the team the role will also include managing non-digital channels like direct mail and events.  
 
 ### **Stage**
