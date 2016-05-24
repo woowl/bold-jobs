@@ -3,7 +3,7 @@
 ### **We are**
  
 - **Small.** We’re a well funded early stage (~5 employees) startup tackling a giant ($50B+) market. 
-- **Ambitious.** The process we are tackling is broken. It’s confusing, frustrating, opaque, complicated – and hugely important in most people’s lives. We’re injecting it with transparency, technology and long-awaited satisfaction.  In addition, we are establishing a business model which will capture a lot of that value. 
+- **Ambitious.** The residential real estate is broken. It’s confusing, frustrating, opaque, complicated – and hugely important in most people’s lives. We’re injecting it with transparency, technology and long-awaited satisfaction.  In addition, we are establishing a business model which will capture a lot of that value. 
 - **Thoughtful.** Our core values are transparency and rationality: we’re moving fast, but we’re investing our time wisely; we’re making big bets, but taking deliberate steps.  
 - **Grounded.** We’re building a business, which means making sure we deliver value for our customers fast. Monetization is not an afterthought, and we don’t depend on network effects for our product to work. 
 
