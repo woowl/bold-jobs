@@ -1,5 +1,7 @@
 # Bold Marketing Manager
 
+We’re [**Bold**](http://boldlisting.com/), and we’re looking for a great marketer.
+
 ### **We are**
  
 - **Small.** We’re a well funded early stage (~5 employees) startup tackling a giant ($50B+) market. 
