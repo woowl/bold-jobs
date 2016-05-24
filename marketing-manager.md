@@ -2,7 +2,7 @@
 
 We’re [**Bold**](http://boldlisting.com/), and we’re looking for a great marketer.
 
-### **We are**
+### **We Are**
  
 - **Small.** We’re a well funded early stage (~5 employees) startup tackling a giant ($50B+) market. 
 - **Ambitious.** The residential real estate is broken. It’s confusing, frustrating, opaque, complicated – and hugely important in most people’s lives. We’re injecting it with transparency, technology and long-awaited satisfaction.  In addition, we are establishing a business model which will capture a lot of that value. 
