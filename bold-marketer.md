@@ -1,4 +1,4 @@
-# Bold Marketing Manager
+# Bold Marketer
 
 We’re [**Bold**](http://boldlisting.com/), and we’re looking for a great marketer.
 
